@@ -1,0 +1,11 @@
+{
+  "email": {
+    "enabled": false,
+    "address": "your-email@gmail.com",
+    "password": "your-app-password-here",
+    "imap_server": "imap.gmail.com",
+    "imap_port": 993,
+    "scan_days": 7,
+    "max_messages": 50
+  }
+}
